@@ -63,8 +63,7 @@
             .logo {
                 display: block;
                 width: 350px;
-                margin: 0 auto;
-                margin-bottom: 30px;
+                margin: 30px auto;
             }
         </style>
     </head>
