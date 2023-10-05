@@ -59,11 +59,17 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+
+            .logo {
+                display: block;
+                width: 350px;
+            }
         </style>
     </head>
     <body>
         <div class="flex-center position-ref full-height">
             <div class="content">
+                <img class="m-b-md logo" src="/amoree-logo.png" />
                 <div class="title m-b-md">
                     Amorée Skin
                 </div>
